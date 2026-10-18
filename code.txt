@@ -1,0 +1,4 @@
+Electronic Store Management System
+Assignment 1.2 - OOP in Different Languages
+
+GitHub Repository:
