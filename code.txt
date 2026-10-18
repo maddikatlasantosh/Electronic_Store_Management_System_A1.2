@@ -1,4 +1,4 @@
 Electronic Store Management System
 Assignment 1.2 - OOP in Different Languages
 
-GitHub Repository:
+GitHub Repository: https://github.com/maddikatlasantosh/Electronic_Store_Management_System_A1.2.git
